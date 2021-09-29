@@ -3,7 +3,7 @@ It's a java/sql based task manger :)
 
 // Requirements--
 1> It requires the JDBC driver(connector) for mysql.
-2>If you have mysql installed installed then good, otherwise intall it.
+2>MySQL.
 
 
 // TO set up--
